@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1658920986829,
+  "index": "https://devanand123D.github.io/iosprompt/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://devanand123D.github.io/iosprompt/favicon.ico",
+        "https://devanand123D.github.io/iosprompt/index.html",
+        "https://devanand123D.github.io/iosprompt/main.b3e55c29faca3b69.js",
+        "https://devanand123D.github.io/iosprompt/manifest.webmanifest",
+        "https://devanand123D.github.io/iosprompt/polyfills.c35e1ea3592b3db4.js",
+        "https://devanand123D.github.io/iosprompt/runtime.dc18c0e50bb37457.js",
+        "https://devanand123D.github.io/iosprompt/styles.3d7c9bb6d4efc7bf.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://devanand123D.github.io/iosprompt/assets/icons/icon-128x128.png",
+        "https://devanand123D.github.io/iosprompt/assets/icons/icon-144x144.png",
+        "https://devanand123D.github.io/iosprompt/assets/icons/icon-152x152.png",
+        "https://devanand123D.github.io/iosprompt/assets/icons/icon-192x192.png",
+        "https://devanand123D.github.io/iosprompt/assets/icons/icon-384x384.png",
+        "https://devanand123D.github.io/iosprompt/assets/icons/icon-512x512.png",
+        "https://devanand123D.github.io/iosprompt/assets/icons/icon-72x72.png",
+        "https://devanand123D.github.io/iosprompt/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://devanand123D.github.io/iosprompt/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://devanand123D.github.io/iosprompt/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://devanand123D.github.io/iosprompt/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://devanand123D.github.io/iosprompt/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://devanand123D.github.io/iosprompt/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://devanand123D.github.io/iosprompt/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://devanand123D.github.io/iosprompt/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://devanand123D.github.io/iosprompt/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://devanand123D.github.io/iosprompt/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://devanand123D.github.io/iosprompt/index.html": "33d1da8bb96baba5c23cf52469e7bc35b6e2e48e",
+    "https://devanand123D.github.io/iosprompt/main.b3e55c29faca3b69.js": "9f0bca27408eb8266e50c647069537651e2f3e92",
+    "https://devanand123D.github.io/iosprompt/manifest.webmanifest": "d3e4dda71df1799f083552a404fcbd5148703975",
+    "https://devanand123D.github.io/iosprompt/polyfills.c35e1ea3592b3db4.js": "8ef1c94abef39645391b60832caf5ec9a5c8ee69",
+    "https://devanand123D.github.io/iosprompt/runtime.dc18c0e50bb37457.js": "ecef5629fbd0999dab9b973967252d2a1cef7e00",
+    "https://devanand123D.github.io/iosprompt/styles.3d7c9bb6d4efc7bf.css": "39a6ef7bd8bfbd5b280255646d21ea756e38b900"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
